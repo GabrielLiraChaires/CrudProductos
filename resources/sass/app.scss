@@ -1,0 +1,21 @@
+// Fonts
+@import url('https://fonts.bunny.net/css?family=Nunito');
+
+/*Modificar Boostrap
+$primary:red;*/
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import 'bootstrap/scss/bootstrap';
+
+/*Mi estilo
+.bg-indigo{
+    background: indigo;
+}*/
+
+/*Mi estilo con colores de boostrap
+.bg-indigo{
+    background: var(--bg-cyan);
+}*/
